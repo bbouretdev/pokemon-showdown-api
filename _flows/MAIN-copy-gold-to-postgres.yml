@@ -9,7 +9,7 @@ tasks:
     endpointOverride: "https://s3.fr-par.scw.cloud"
     region: fr-par
     accessKeyId: "SCWB3XMCCXHTNQC5KQQH"
-    secretKeyId: "764e1512-586c-4cbd-ad83-8251a0d27b7c"
+    secretKeyId: "{{ secret('SCALEWAY_SECRET_KEY_ID') }}"
     prefix: "pokemon"
       
   - id: foreach_parquet_file

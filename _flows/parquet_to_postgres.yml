@@ -70,7 +70,7 @@ tasks:
     type: io.kestra.plugin.jdbc.postgresql.Query
     url: jdbc:postgresql://4505da19-4cd7-40c8-ab0a-d7f44b75731e.pg.sdb.fr-par.scw.cloud:5432/serverless-sqldb-datasonar
     username: be52a34e-7113-44fd-805a-829d8faaaa5b
-    password: 37386603-fb73-44bb-a766-ab6a3dd55f6c
+    password: "{{ secret('POSTGRES_PASSWORD') }}"
     sql: "{{ read(outputs.generate_postgres_ddl.outputFiles['create_table.sql']) }}"
 
   - id: upload_to_postgres
@@ -88,7 +88,7 @@ tasks:
 
       # Connexion PostgreSQL
       engine = create_engine(
-        'postgresql+psycopg2://be52a34e-7113-44fd-805a-829d8faaaa5b:37386603-fb73-44bb-a766-ab6a3dd55f6c@4505da19-4cd7-40c8-ab0a-d7f44b75731e.pg.sdb.fr-par.scw.cloud:5432/serverless-sqldb-datasonar'
+        'postgresql+psycopg2://be52a34e-7113-44fd-805a-829d8faaaa5b:{{ secret('POSTGRES_PASSWORD') }}@4505da19-4cd7-40c8-ab0a-d7f44b75731e.pg.sdb.fr-par.scw.cloud:5432/serverless-sqldb-datasonar'
       )
 
       key = "{{ inputs.parquet_key }}"
