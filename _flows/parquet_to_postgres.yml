@@ -59,7 +59,9 @@ tasks:
       key = "{{ inputs.parquet_key }}"
       table_name = key.split('/')[-1].replace('.parquet', '')
       schema_name = "{{ inputs.postgre_schema }}"
-      ddl = f'CREATE TABLE IF NOT EXISTS "{schema_name}.{table_name}" (\n  ' + ",\n  ".join(columns) + "\n);"
+      # Générer la requête SQL avec DROP TABLE IF EXISTS avant le CREATE TABLE
+      ddl = f'DROP TABLE IF EXISTS "{schema_name}.{table_name}";\n'  # Drop si existe
+      ddl += f'CREATE TABLE IF NOT EXISTS "{schema_name}.{table_name}" (\n  ' + ",\n  ".join(columns) + "\n);"
 
       with open("create_table.sql", "w") as f:
           f.write(ddl)
