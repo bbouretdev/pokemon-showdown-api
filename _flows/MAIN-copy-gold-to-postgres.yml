@@ -1,6 +1,11 @@
 id: MAIN-copy-gold-to-postgres
 namespace: sandbox-datalake
 
+inputs:
+  - id: s3_prefix
+    type: STRING
+    defaults: pokemon
+
 tasks:
   - id: download_from_s3
     type: io.kestra.plugin.aws.s3.Downloads
@@ -10,7 +15,7 @@ tasks:
     region: fr-par
     accessKeyId: "SCWB3XMCCXHTNQC5KQQH"
     secretKeyId: "{{ secret('SCALEWAY_SECRET_KEY_ID') }}"
-    prefix: "pokemon"
+    prefix: "{{ inputs.s3_prefix }}"
       
   - id: foreach_parquet_file
     type: io.kestra.plugin.core.flow.EachSequential
