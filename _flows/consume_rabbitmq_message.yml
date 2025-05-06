@@ -1,0 +1,17 @@
+id: consume_rabbitmq_message
+namespace: sandbox-datalake
+description: Listens for RabbitMQ messages
+
+tasks:
+  - id: consume_message
+    type: io.kestra.plugin.amqp.Consume
+    host: "51.68.229.67"
+    port: "5672"
+    username: "admin"
+    password: "Berezinas95&"
+    queue: "sandbox_datalake"
+    maxRecords: 1
+
+  # - id: log
+  #   type: io.kestra.plugin.core.log.Log
+  #   message: "{{ outputs.consume_message. }}"
