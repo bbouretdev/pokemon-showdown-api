@@ -11,10 +11,6 @@ inputs:
     type: STRING
     defaults: c2e2c4cb-8281-4249-9de3-c641ac664632
 
-  - id: nifi_password
-    type: STRING
-    defaults: lCh6JnntC4za5cuX/73bR4gLGBMKFcM1
-
   - id: processor_id
     type: STRING
     defaults: a58dfb9f-0196-1000-23a8-4cd35b664908
@@ -26,7 +22,7 @@ tasks:
     method: POST
     headers:
       Content-Type: "application/x-www-form-urlencoded"
-    body: "username={{ inputs.nifi_username }}&password={{ inputs.nifi_password }}&grant_type=password"
+    body: "username={{ inputs.nifi_username }}&password={{ secret('NIFI_PASSWORD') }}&grant_type=password"
 
   - id: get_processor_info
     type: io.kestra.plugin.core.http.Request
