@@ -17,7 +17,7 @@ tasks:
     type: io.kestra.plugin.aws.s3.Upload
     from: "{{ outputs.get_source_data.uri }}"
     accessKeyId: "SCWB3XMCCXHTNQC5KQQH"
-    secretKeyId: "764e1512-586c-4cbd-ad83-8251a0d27b7c"
+    secretKeyId: "{{ secret('SCALEWAY_SECRET_KEY_ID') }}"
     bucket: "sandbox-datalake-bronze"
     key: "test/upload_from_kestra.json"
     endpointOverride: "https://s3.fr-par.scw.cloud"
