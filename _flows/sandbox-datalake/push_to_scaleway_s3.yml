@@ -1,0 +1,24 @@
+id: push_to_scaleway_s3
+namespace: sandbox-datalake
+description: pushes input files into a S3 Scaleway bucket
+
+inputs:
+  - id: showdowndav_url_abilities
+    type: STRING
+    defaults: http://51.68.229.67:8001/dav/abilities
+
+tasks:
+  - id: get_source_data
+    type: io.kestra.plugin.core.http.Download
+    uri: "{{ inputs.showdowndav_url_abilities }}"
+    method: GET
+
+  - id: upload_on_s3
+    type: io.kestra.plugin.aws.s3.Upload
+    from: "{{ outputs.get_source_data.uri }}"
+    accessKeyId: "SCWB3XMCCXHTNQC5KQQH"
+    secretKeyId: "{{ secret('SCALEWAY_SECRET_KEY_ID') }}"
+    bucket: "sandbox-datalake-bronze"
+    key: "test/upload_from_kestra.json"
+    endpointOverride: "https://s3.fr-par.scw.cloud"
+    region: "fr-par"

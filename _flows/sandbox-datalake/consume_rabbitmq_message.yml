@@ -1,0 +1,19 @@
+id: consume_rabbitmq_message
+namespace: sandbox-datalake
+description: Listens for RabbitMQ messages
+
+# triggers:
+#   - id: poll_rabbitmq
+#     type: io.kestra.plugin.core.trigger.Schedule
+#     cron: "* * * * *"  # toutes les minutes
+
+tasks:
+  - id: consume_message
+    type: io.kestra.plugin.amqp.Consume
+    host: "51.68.229.67"
+    port: "5672"
+    username: "admin"
+    password: "{{ secret('RABBITMQ_PASSWORD') }}"
+    queue: "sandbox_datalake"
+    maxRecords: 1
+    timeout: PT5S   # attend max 5 secondes

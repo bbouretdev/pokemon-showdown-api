@@ -1,0 +1,37 @@
+id: MAIN-copy-gold-to-postgres
+namespace: sandbox-datalake
+
+inputs:
+  - id: s3_prefix
+    type: STRING
+    defaults: pokemon
+
+tasks:
+  - id: download_from_s3
+    type: io.kestra.plugin.aws.s3.Downloads
+    action: NONE
+    bucket: "sandbox-datalake-gold"
+    endpointOverride: "https://s3.fr-par.scw.cloud"
+    region: fr-par
+    accessKeyId: "SCWB3XMCCXHTNQC5KQQH"
+    secretKeyId: "{{ secret('SCALEWAY_SECRET_KEY_ID') }}"
+    prefix: "{{ inputs.s3_prefix }}"
+      
+  - id: foreach_parquet_file
+    type: io.kestra.plugin.core.flow.EachSequential
+    value: "{{ outputs.download_from_s3.objects }}"
+    tasks:
+      - id: parquet_to_postgres
+        type: io.kestra.plugin.core.flow.Subflow
+        namespace: sandbox-datalake
+        flowId: parquet_to_postgres
+        wait: true
+        transmitFailed: true
+        inputs:
+          parquet_uri: "{{ json(taskrun.value).uri }}"
+          parquet_key: "{{ json(taskrun.value).key }}"
+          postgre_schema: "sandbox_datalake_pokemon_showdown"
+
+  # - id: log
+  #   type: io.kestra.plugin.core.log.Log
+  #   message: "{{ outputs.download_from_s3.objects }}"

@@ -1,0 +1,35 @@
+id: test-run-meltano-job
+namespace: sandbox-datalake
+
+tasks:
+  - id: dbt
+    type: io.kestra.plugin.core.flow.WorkingDirectory
+    tasks:
+      - id: clone_repository
+        type: io.kestra.plugin.git.Clone
+        url: https://github.com/bbouretdev/dbt-sandbox-datalake.git
+        branch: master
+      - id: dbt_core
+        type: io.kestra.plugin.dbt.cli.DbtCLI
+        taskRunner:
+          type: io.kestra.plugin.scripts.runner.docker.Docker
+        containerImage: ghcr.io/kestra-io/dbt-duckdb:latest
+        profiles: |
+          sandbox_datalake:
+            outputs:
+              dev:
+                type: duckdb
+                path: ":memory:"
+                threads: 16
+                extensions: 
+                  - httpfs
+                  - parquet
+                settings:
+                  s3_region: "fr-par"
+                  s3_access_key_id: "SCWB3XMCCXHTNQC5KQQH"
+                  s3_secret_access_key: "764e1512-586c-4cbd-ad83-8251a0d27b7c"
+                  s3_endpoint: "s3.fr-par.scw.cloud"
+            target: dev
+        commands:
+          - dbt deps
+          - dbt run --select diff_dav_smogon_move
