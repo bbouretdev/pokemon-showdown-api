@@ -1,0 +1,5567 @@
+[
+  {
+    "key": "bulbasaur",
+    "tier": "LC"
+  },
+  {
+    "key": "ivysaur",
+    "tier": "OU"
+  },
+  {
+    "key": "venusaur",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "venusaurmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "venusaurgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "charmander",
+    "tier": "LC"
+  },
+  {
+    "key": "charmeleon",
+    "tier": "OU"
+  },
+  {
+    "key": "charizard",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "charizardmegax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "charizardmegay",
+    "tier": "Illegal"
+  },
+  {
+    "key": "charizardgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "squirtle",
+    "tier": "LC"
+  },
+  {
+    "key": "wartortle",
+    "tier": "OU"
+  },
+  {
+    "key": "blastoise",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "blastoisemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blastoisegmax",
+    "isNonstandard": "Past"
+  },
+  {
+    "key": "caterpie",
+    "tier": "LC"
+  },
+  {
+    "key": "metapod",
+    "tier": "OU"
+  },
+  {
+    "key": "butterfree",
+    "tier": "OU"
+  },
+  {
+    "key": "butterfreegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "weedle",
+    "tier": "LC"
+  },
+  {
+    "key": "kakuna",
+    "tier": "OU"
+  },
+  {
+    "key": "beedrill",
+    "tier": "OU"
+  },
+  {
+    "key": "beedrillmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pidgey",
+    "tier": "LC"
+  },
+  {
+    "key": "pidgeotto",
+    "tier": "OU"
+  },
+  {
+    "key": "pidgeot",
+    "tier": "OU"
+  },
+  {
+    "key": "pidgeotmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rattata",
+    "tier": "LC"
+  },
+  {
+    "key": "rattataalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "raticate",
+    "tier": "OU"
+  },
+  {
+    "key": "raticatealola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "raticatealolatotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spearow",
+    "tier": "LC"
+  },
+  {
+    "key": "fearow",
+    "tier": "OU"
+  },
+  {
+    "key": "ekans",
+    "tier": "LC"
+  },
+  {
+    "key": "arbok",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "pichu",
+    "tier": "LC"
+  },
+  {
+    "key": "pichuspikyeared",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachu",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "pikachucosplay",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachurockstar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachubelle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachupopstar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachuphd",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachulibre",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachuoriginal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachuhoenn",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachusinnoh",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachuunova",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachukalos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachualola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachupartner",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachustarter",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachugmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikachuworld",
+    "tier": "Illegal"
+  },
+  {
+    "key": "raichu",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "raichualola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandshrew",
+    "tier": "LC"
+  },
+  {
+    "key": "sandshrewalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandslash",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "sandslashalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nidoranf",
+    "tier": "LC"
+  },
+  {
+    "key": "nidorina",
+    "tier": "OU"
+  },
+  {
+    "key": "nidoqueen",
+    "tier": "OU"
+  },
+  {
+    "key": "nidoranm",
+    "tier": "LC"
+  },
+  {
+    "key": "nidorino",
+    "tier": "OU"
+  },
+  {
+    "key": "nidoking",
+    "tier": "OU"
+  },
+  {
+    "key": "cleffa",
+    "tier": "LC"
+  },
+  {
+    "key": "clefairy",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "clefable",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "vulpix",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "vulpixalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ninetales",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "ninetalesalola",
+    "tier": "Illegal",
+    "doublesTier": "DOU"
+  },
+  {
+    "key": "igglybuff",
+    "tier": "LC"
+  },
+  {
+    "key": "jigglypuff",
+    "tier": "OU"
+  },
+  {
+    "key": "wigglytuff",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "zubat",
+    "tier": "LC"
+  },
+  {
+    "key": "golbat",
+    "tier": "OU"
+  },
+  {
+    "key": "crobat",
+    "tier": "OU"
+  },
+  {
+    "key": "oddish",
+    "tier": "OU"
+  },
+  {
+    "key": "gloom",
+    "tier": "OU"
+  },
+  {
+    "key": "vileplume",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "bellossom",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "paras",
+    "tier": "LC"
+  },
+  {
+    "key": "parasect",
+    "tier": "OU"
+  },
+  {
+    "key": "venonat",
+    "tier": "LC"
+  },
+  {
+    "key": "venomoth",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "diglett",
+    "tier": "OU"
+  },
+  {
+    "key": "diglettalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dugtrio",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "dugtrioalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meowth",
+    "tier": "LC"
+  },
+  {
+    "key": "meowthalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meowthgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meowthgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "persian",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "persianalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "perrserker",
+    "tier": "Illegal"
+  },
+  {
+    "key": "psyduck",
+    "tier": "LC"
+  },
+  {
+    "key": "golduck",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "mankey",
+    "tier": "LC"
+  },
+  {
+    "key": "primeape",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "growlithe",
+    "tier": "LC"
+  },
+  {
+    "key": "growlithehisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arcanine",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "arcaninehisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "poliwag",
+    "tier": "LC"
+  },
+  {
+    "key": "poliwhirl",
+    "tier": "OU"
+  },
+  {
+    "key": "poliwrath",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "politoed",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "abra",
+    "tier": "LC"
+  },
+  {
+    "key": "kadabra",
+    "tier": "OU"
+  },
+  {
+    "key": "alakazam",
+    "tier": "OU"
+  },
+  {
+    "key": "alakazammega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "machop",
+    "tier": "LC"
+  },
+  {
+    "key": "machoke",
+    "tier": "OU"
+  },
+  {
+    "key": "machamp",
+    "tier": "OU"
+  },
+  {
+    "key": "machampgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bellsprout",
+    "tier": "LC"
+  },
+  {
+    "key": "weepinbell",
+    "tier": "OU"
+  },
+  {
+    "key": "victreebel",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "tentacool",
+    "tier": "LC"
+  },
+  {
+    "key": "tentacruel",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "geodude",
+    "tier": "LC"
+  },
+  {
+    "key": "geodudealola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "graveler",
+    "tier": "OU"
+  },
+  {
+    "key": "graveleralola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "golem",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "golemalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ponyta",
+    "tier": "LC"
+  },
+  {
+    "key": "ponytagalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rapidash",
+    "tier": "OU"
+  },
+  {
+    "key": "rapidashgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slowpoke",
+    "tier": "LC"
+  },
+  {
+    "key": "slowpokegalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slowbro",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "slowbromega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slowbrogalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slowking",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "slowkinggalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "magnemite",
+    "tier": "LC"
+  },
+  {
+    "key": "magneton",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "magnezone",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "farfetchd",
+    "tier": "OU"
+  },
+  {
+    "key": "farfetchdgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sirfetchd",
+    "tier": "Illegal"
+  },
+  {
+    "key": "doduo",
+    "tier": "LC"
+  },
+  {
+    "key": "dodrio",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "seel",
+    "tier": "LC"
+  },
+  {
+    "key": "dewgong",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "grimer",
+    "tier": "LC"
+  },
+  {
+    "key": "grimeralola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "muk",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "mukalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shellder",
+    "tier": "LC"
+  },
+  {
+    "key": "cloyster",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "gastly",
+    "tier": "OU"
+  },
+  {
+    "key": "haunter",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "gengar",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "gengarmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gengargmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "onix",
+    "tier": "OU"
+  },
+  {
+    "key": "steelix",
+    "tier": "OU"
+  },
+  {
+    "key": "steelixmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drowzee",
+    "tier": "LC"
+  },
+  {
+    "key": "hypno",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "krabby",
+    "tier": "LC"
+  },
+  {
+    "key": "kingler",
+    "tier": "OU"
+  },
+  {
+    "key": "kinglergmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "voltorb",
+    "tier": "LC"
+  },
+  {
+    "key": "voltorbhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "electrode",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "electrodehisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "exeggcute",
+    "tier": "LC"
+  },
+  {
+    "key": "exeggutor",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "exeggutoralola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cubone",
+    "tier": "LC"
+  },
+  {
+    "key": "marowak",
+    "tier": "OU"
+  },
+  {
+    "key": "marowakalola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "marowakalolatotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tyrogue",
+    "tier": "LC"
+  },
+  {
+    "key": "hitmonlee",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "hitmonchan",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "hitmontop",
+    "tier": "OU"
+  },
+  {
+    "key": "lickitung",
+    "tier": "LC"
+  },
+  {
+    "key": "lickilicky",
+    "tier": "OU"
+  },
+  {
+    "key": "koffing",
+    "tier": "OU"
+  },
+  {
+    "key": "weezing",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "weezinggalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rhyhorn",
+    "tier": "LC"
+  },
+  {
+    "key": "rhydon",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "rhyperior",
+    "tier": "OU"
+  },
+  {
+    "key": "happiny",
+    "tier": "LC"
+  },
+  {
+    "key": "chansey",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "blissey",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "tangela",
+    "tier": "OU"
+  },
+  {
+    "key": "tangrowth",
+    "tier": "OU"
+  },
+  {
+    "key": "kangaskhan",
+    "tier": "OU"
+  },
+  {
+    "key": "kangaskhanmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "horsea",
+    "tier": "LC"
+  },
+  {
+    "key": "seadra",
+    "tier": "OU"
+  },
+  {
+    "key": "kingdra",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "goldeen",
+    "tier": "LC"
+  },
+  {
+    "key": "seaking",
+    "tier": "OU"
+  },
+  {
+    "key": "staryu",
+    "tier": "LC"
+  },
+  {
+    "key": "starmie",
+    "tier": "OU"
+  },
+  {
+    "key": "mimejr",
+    "tier": "LC"
+  },
+  {
+    "key": "mrmime",
+    "tier": "OU"
+  },
+  {
+    "key": "mrmimegalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mrrime",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scyther",
+    "tier": "OU",
+    "doublesTier": "NFE"
+  },
+  {
+    "key": "scizor",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "scizormega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kleavor",
+    "tier": "OU"
+  },
+  {
+    "key": "smoochum",
+    "tier": "LC"
+  },
+  {
+    "key": "jynx",
+    "tier": "OU"
+  },
+  {
+    "key": "elekid",
+    "tier": "LC"
+  },
+  {
+    "key": "electabuzz",
+    "tier": "OU"
+  },
+  {
+    "key": "electivire",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "magby",
+    "tier": "LC"
+  },
+  {
+    "key": "magmar",
+    "tier": "OU"
+  },
+  {
+    "key": "magmortar",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "pinsir",
+    "tier": "OU"
+  },
+  {
+    "key": "pinsirmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tauros",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "taurospaldeacombat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "taurospaldeablaze",
+    "tier": "Illegal"
+  },
+  {
+    "key": "taurospaldeaaqua",
+    "tier": "Illegal"
+  },
+  {
+    "key": "magikarp",
+    "tier": "LC"
+  },
+  {
+    "key": "gyarados",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "gyaradosmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lapras",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "laprasgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ditto",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "eevee",
+    "tier": "LC"
+  },
+  {
+    "key": "eeveestarter",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eeveegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vaporeon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "jolteon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "flareon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "espeon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "umbreon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "leafeon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "glaceon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "sylveon",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "porygon",
+    "tier": "OU"
+  },
+  {
+    "key": "porygon2",
+    "tier": "OU",
+    "doublesTier": "DUU"
+  },
+  {
+    "key": "porygonz",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "omanyte",
+    "tier": "LC"
+  },
+  {
+    "key": "omastar",
+    "tier": "OU"
+  },
+  {
+    "key": "kabuto",
+    "tier": "LC"
+  },
+  {
+    "key": "kabutops",
+    "tier": "OU"
+  },
+  {
+    "key": "aerodactyl",
+    "tier": "OU"
+  },
+  {
+    "key": "aerodactylmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "munchlax",
+    "tier": "LC"
+  },
+  {
+    "key": "snorlax",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "snorlaxgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "articuno",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "articunogalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zapdos",
+    "tier": "OU"
+  },
+  {
+    "key": "zapdosgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "moltres",
+    "tier": "OU"
+  },
+  {
+    "key": "moltresgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dratini",
+    "tier": "LC"
+  },
+  {
+    "key": "dragonair",
+    "tier": "OU"
+  },
+  {
+    "key": "dragonite",
+    "tier": "OU",
+    "doublesTier": "DOU"
+  },
+  {
+    "key": "mewtwo",
+    "tier": "Uber",
+    "doublesTier": "DUber"
+  },
+  {
+    "key": "mewtwomegax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mewtwomegay",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mew",
+    "tier": "OU",
+    "doublesTier": "(DUU)"
+  },
+  {
+    "key": "chikorita",
+    "tier": "LC"
+  },
+  {
+    "key": "bayleef",
+    "tier": "OU"
+  },
+  {
+    "key": "meganium",
+    "tier": "OU"
+  },
+  {
+    "key": "cyndaquil",
+    "tier": "LC"
+  },
+  {
+    "key": "quilava",
+    "tier": "OU"
+  },
+  {
+    "key": "typhlosion",
+    "tier": "OU"
+  },
+  {
+    "key": "typhlosionhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "totodile",
+    "tier": "LC"
+  },
+  {
+    "key": "croconaw",
+    "tier": "OU"
+  },
+  {
+    "key": "feraligatr",
+    "tier": "OU"
+  },
+  {
+    "key": "sentret",
+    "tier": "Illegal"
+  },
+  {
+    "key": "furret",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hoothoot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "noctowl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ledyba",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ledian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spinarak",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ariados",
+    "tier": "OU"
+  },
+  {
+    "key": "chinchou",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lanturn",
+    "tier": "Illegal"
+  },
+  {
+    "key": "togepi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "togetic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "togekiss",
+    "tier": "Illegal"
+  },
+  {
+    "key": "natu",
+    "tier": "LC"
+  },
+  {
+    "key": "xatu",
+    "tier": "OU"
+  },
+  {
+    "key": "mareep",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flaaffy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ampharos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ampharosmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "azurill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "marill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "azumarill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bonsly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sudowoodo",
+    "tier": "OU"
+  },
+  {
+    "key": "hoppip",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skiploom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "jumpluff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aipom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ambipom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sunkern",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sunflora",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yanma",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yanmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wooper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wooperpaldea",
+    "tier": "Illegal"
+  },
+  {
+    "key": "quagsire",
+    "tier": "Illegal"
+  },
+  {
+    "key": "murkrow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "honchkrow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "misdreavus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mismagius",
+    "tier": "Illegal"
+  },
+  {
+    "key": "unown",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wynaut",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wobbuffet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "girafarig",
+    "tier": "Illegal"
+  },
+  {
+    "key": "farigiraf",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pineco",
+    "tier": "Illegal"
+  },
+  {
+    "key": "forretress",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dunsparce",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dudunsparce",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gligar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gliscor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snubbull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "granbull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "qwilfish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "qwilfishhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "overqwil",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shuckle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "heracross",
+    "tier": "Illegal"
+  },
+  {
+    "key": "heracrossmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sneasel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sneaselhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "weavile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sneasler",
+    "tier": "Illegal"
+  },
+  {
+    "key": "teddiursa",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ursaring",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ursaluna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ursalunabloodmoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slugma",
+    "tier": "Illegal"
+  },
+  {
+    "key": "magcargo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swinub",
+    "tier": "Illegal"
+  },
+  {
+    "key": "piloswine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mamoswine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corsola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corsolagalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cursola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "remoraid",
+    "tier": "Illegal"
+  },
+  {
+    "key": "octillery",
+    "tier": "Illegal"
+  },
+  {
+    "key": "delibird",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mantyke",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mantine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skarmory",
+    "tier": "Illegal"
+  },
+  {
+    "key": "houndour",
+    "tier": "Illegal"
+  },
+  {
+    "key": "houndoom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "houndoommega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "phanpy",
+    "tier": "LC"
+  },
+  {
+    "key": "donphan",
+    "tier": "OU"
+  },
+  {
+    "key": "stantler",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wyrdeer",
+    "tier": "Illegal"
+  },
+  {
+    "key": "smeargle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "miltank",
+    "tier": "Illegal"
+  },
+  {
+    "key": "raikou",
+    "tier": "Illegal"
+  },
+  {
+    "key": "entei",
+    "tier": "Illegal"
+  },
+  {
+    "key": "suicune",
+    "tier": "Illegal"
+  },
+  {
+    "key": "larvitar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pupitar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tyranitar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tyranitarmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lugia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hooh",
+    "tier": "Illegal"
+  },
+  {
+    "key": "celebi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "treecko",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grovyle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sceptile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sceptilemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "torchic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "combusken",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blaziken",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blazikenmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mudkip",
+    "tier": "Illegal"
+  },
+  {
+    "key": "marshtomp",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swampert",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swampertmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "poochyena",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mightyena",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zigzagoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zigzagoongalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "linoone",
+    "tier": "Illegal"
+  },
+  {
+    "key": "linoonegalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "obstagoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wurmple",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silcoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "beautifly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cascoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dustox",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lotad",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lombre",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ludicolo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "seedot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nuzleaf",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shiftry",
+    "tier": "Illegal"
+  },
+  {
+    "key": "taillow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swellow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wingull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pelipper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ralts",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kirlia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gardevoir",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gardevoirmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gallade",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gallademega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "surskit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "masquerain",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shroomish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "breloom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slakoth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vigoroth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slaking",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nincada",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ninjask",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shedinja",
+    "tier": "Illegal"
+  },
+  {
+    "key": "whismur",
+    "tier": "Illegal"
+  },
+  {
+    "key": "loudred",
+    "tier": "Illegal"
+  },
+  {
+    "key": "exploud",
+    "tier": "Illegal"
+  },
+  {
+    "key": "makuhita",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hariyama",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nosepass",
+    "tier": "Illegal"
+  },
+  {
+    "key": "probopass",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skitty",
+    "tier": "Illegal"
+  },
+  {
+    "key": "delcatty",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sableye",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sableyemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mawile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mawilemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aron",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lairon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aggron",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aggronmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meditite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "medicham",
+    "tier": "Illegal"
+  },
+  {
+    "key": "medichammega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "electrike",
+    "tier": "Illegal"
+  },
+  {
+    "key": "manectric",
+    "tier": "Illegal"
+  },
+  {
+    "key": "manectricmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "plusle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "minun",
+    "tier": "Illegal"
+  },
+  {
+    "key": "volbeat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "illumise",
+    "tier": "Illegal"
+  },
+  {
+    "key": "budew",
+    "tier": "Illegal"
+  },
+  {
+    "key": "roselia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "roserade",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gulpin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swalot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "carvanha",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sharpedo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sharpedomega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wailmer",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wailord",
+    "tier": "Illegal"
+  },
+  {
+    "key": "numel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "camerupt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cameruptmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "torkoal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spoink",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grumpig",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spinda",
+    "tier": "Illegal"
+  },
+  {
+    "key": "trapinch",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vibrava",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flygon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cacnea",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cacturne",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swablu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "altaria",
+    "tier": "Illegal"
+  },
+  {
+    "key": "altariamega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zangoose",
+    "tier": "Illegal"
+  },
+  {
+    "key": "seviper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lunatone",
+    "tier": "Illegal"
+  },
+  {
+    "key": "solrock",
+    "tier": "Illegal"
+  },
+  {
+    "key": "barboach",
+    "tier": "Illegal"
+  },
+  {
+    "key": "whiscash",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corphish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crawdaunt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "baltoy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "claydol",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lileep",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cradily",
+    "tier": "Illegal"
+  },
+  {
+    "key": "anorith",
+    "tier": "Illegal"
+  },
+  {
+    "key": "armaldo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "feebas",
+    "tier": "Illegal"
+  },
+  {
+    "key": "milotic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "castform",
+    "tier": "Illegal"
+  },
+  {
+    "key": "castformsunny",
+    "tier": "Illegal"
+  },
+  {
+    "key": "castformrainy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "castformsnowy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kecleon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shuppet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "banette",
+    "tier": "Illegal"
+  },
+  {
+    "key": "banettemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "duskull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dusclops",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dusknoir",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tropius",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chingling",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chimecho",
+    "tier": "Illegal"
+  },
+  {
+    "key": "absol",
+    "tier": "Illegal"
+  },
+  {
+    "key": "absolmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snorunt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glalie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glaliemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "froslass",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spheal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sealeo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "walrein",
+    "tier": "Illegal"
+  },
+  {
+    "key": "clamperl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "huntail",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gorebyss",
+    "tier": "Illegal"
+  },
+  {
+    "key": "relicanth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "luvdisc",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bagon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shelgon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "salamence",
+    "tier": "Illegal"
+  },
+  {
+    "key": "salamencemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "beldum",
+    "tier": "Illegal"
+  },
+  {
+    "key": "metang",
+    "tier": "Illegal"
+  },
+  {
+    "key": "metagross",
+    "tier": "Illegal"
+  },
+  {
+    "key": "metagrossmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "regirock",
+    "tier": "Illegal"
+  },
+  {
+    "key": "regice",
+    "tier": "Illegal"
+  },
+  {
+    "key": "registeel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "latias",
+    "tier": "Illegal"
+  },
+  {
+    "key": "latiasmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "latios",
+    "tier": "Illegal"
+  },
+  {
+    "key": "latiosmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kyogre",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kyogreprimal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "groudon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "groudonprimal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rayquaza",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rayquazamega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "jirachi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deoxys",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deoxysattack",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deoxysdefense",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deoxysspeed",
+    "tier": "Illegal"
+  },
+  {
+    "key": "turtwig",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grotle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "torterra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chimchar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "monferno",
+    "tier": "Illegal"
+  },
+  {
+    "key": "infernape",
+    "tier": "Illegal"
+  },
+  {
+    "key": "piplup",
+    "tier": "Illegal"
+  },
+  {
+    "key": "prinplup",
+    "tier": "Illegal"
+  },
+  {
+    "key": "empoleon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "starly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "staravia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "staraptor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bidoof",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bibarel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kricketot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kricketune",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shinx",
+    "tier": "Illegal"
+  },
+  {
+    "key": "luxio",
+    "tier": "Illegal"
+  },
+  {
+    "key": "luxray",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cranidos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rampardos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shieldon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bastiodon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "burmy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wormadam",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wormadamsandy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wormadamtrash",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mothim",
+    "tier": "Illegal"
+  },
+  {
+    "key": "combee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vespiquen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pachirisu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "buizel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "floatzel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cherubi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cherrim",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cherrimsunshine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shellos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gastrodon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drifloon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drifblim",
+    "tier": "Illegal"
+  },
+  {
+    "key": "buneary",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lopunny",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lopunnymega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glameow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "purugly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stunky",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skuntank",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bronzor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bronzong",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chatot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spiritomb",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gible",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gabite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "garchomp",
+    "tier": "Illegal"
+  },
+  {
+    "key": "garchompmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "riolu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lucario",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lucariomega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hippopotas",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hippowdon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skorupi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drapion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "croagunk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxicroak",
+    "tier": "Illegal"
+  },
+  {
+    "key": "carnivine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "finneon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lumineon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snover",
+    "tier": "Illegal"
+  },
+  {
+    "key": "abomasnow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "abomasnowmega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotomheat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotomwash",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotomfrost",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotomfan",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rotommow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "uxie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mesprit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "azelf",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dialga",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dialgaorigin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "palkia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "palkiaorigin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "heatran",
+    "tier": "Illegal"
+  },
+  {
+    "key": "regigigas",
+    "tier": "Illegal"
+  },
+  {
+    "key": "giratina",
+    "tier": "Illegal"
+  },
+  {
+    "key": "giratinaorigin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cresselia",
+    "tier": "Illegal"
+  },
+  {
+    "key": "phione",
+    "tier": "Illegal"
+  },
+  {
+    "key": "manaphy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darkrai",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shaymin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shayminsky",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arceus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "victini",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snivy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "servine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "serperior",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tepig",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pignite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "emboar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oshawott",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dewott",
+    "tier": "Illegal"
+  },
+  {
+    "key": "samurott",
+    "tier": "Illegal"
+  },
+  {
+    "key": "samurotthisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "patrat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "watchog",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lillipup",
+    "tier": "Illegal"
+  },
+  {
+    "key": "herdier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stoutland",
+    "tier": "Illegal"
+  },
+  {
+    "key": "purrloin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "liepard",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pansage",
+    "tier": "Illegal"
+  },
+  {
+    "key": "simisage",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pansear",
+    "tier": "Illegal"
+  },
+  {
+    "key": "simisear",
+    "tier": "Illegal"
+  },
+  {
+    "key": "panpour",
+    "tier": "Illegal"
+  },
+  {
+    "key": "simipour",
+    "tier": "Illegal"
+  },
+  {
+    "key": "munna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "musharna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pidove",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tranquill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "unfezant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blitzle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zebstrika",
+    "tier": "Illegal"
+  },
+  {
+    "key": "roggenrola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "boldore",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gigalith",
+    "tier": "Illegal"
+  },
+  {
+    "key": "woobat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swoobat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drilbur",
+    "tier": "Illegal"
+  },
+  {
+    "key": "excadrill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "audino",
+    "tier": "Illegal"
+  },
+  {
+    "key": "audinomega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "timburr",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gurdurr",
+    "tier": "Illegal"
+  },
+  {
+    "key": "conkeldurr",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tympole",
+    "tier": "Illegal"
+  },
+  {
+    "key": "palpitoad",
+    "tier": "Illegal"
+  },
+  {
+    "key": "seismitoad",
+    "tier": "Illegal"
+  },
+  {
+    "key": "throh",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sawk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sewaddle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swadloon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "leavanny",
+    "tier": "Illegal"
+  },
+  {
+    "key": "venipede",
+    "tier": "Illegal"
+  },
+  {
+    "key": "whirlipede",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scolipede",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cottonee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "whimsicott",
+    "tier": "Illegal"
+  },
+  {
+    "key": "petilil",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lilligant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lilliganthisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "basculin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "basculegion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "basculegionf",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "krokorok",
+    "tier": "Illegal"
+  },
+  {
+    "key": "krookodile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darumaka",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darumakagalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darmanitan",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darmanitanzen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darmanitangalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "darmanitangalarzen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "maractus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dwebble",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crustle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scraggy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scrafty",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sigilyph",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yamask",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yamaskgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cofagrigus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "runerigus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tirtouga",
+    "tier": "Illegal"
+  },
+  {
+    "key": "carracosta",
+    "tier": "Illegal"
+  },
+  {
+    "key": "archen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "archeops",
+    "tier": "Illegal"
+  },
+  {
+    "key": "trubbish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "garbodor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "garbodorgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zorua",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zoruahisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zoroark",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zoroarkhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "minccino",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cinccino",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gothita",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gothorita",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gothitelle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "solosis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "duosion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "reuniclus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ducklett",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swanna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vanillite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vanillish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vanilluxe",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deerling",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sawsbuck",
+    "tier": "Illegal"
+  },
+  {
+    "key": "emolga",
+    "tier": "Illegal"
+  },
+  {
+    "key": "karrablast",
+    "tier": "Illegal"
+  },
+  {
+    "key": "escavalier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "foongus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "amoonguss",
+    "tier": "Illegal"
+  },
+  {
+    "key": "frillish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "jellicent",
+    "tier": "Illegal"
+  },
+  {
+    "key": "alomomola",
+    "tier": "Illegal"
+  },
+  {
+    "key": "joltik",
+    "tier": "Illegal"
+  },
+  {
+    "key": "galvantula",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ferroseed",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ferrothorn",
+    "tier": "Illegal"
+  },
+  {
+    "key": "klink",
+    "tier": "Illegal"
+  },
+  {
+    "key": "klang",
+    "tier": "Illegal"
+  },
+  {
+    "key": "klinklang",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tynamo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eelektrik",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eelektross",
+    "tier": "Illegal"
+  },
+  {
+    "key": "elgyem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "beheeyem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "litwick",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lampent",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chandelure",
+    "tier": "Illegal"
+  },
+  {
+    "key": "axew",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fraxure",
+    "tier": "Illegal"
+  },
+  {
+    "key": "haxorus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cubchoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "beartic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cryogonal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shelmet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "accelgor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stunfisk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stunfiskgalar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mienfoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mienshao",
+    "tier": "Illegal"
+  },
+  {
+    "key": "druddigon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "golett",
+    "tier": "Illegal"
+  },
+  {
+    "key": "golurk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pawniard",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bisharp",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bouffalant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rufflet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "braviary",
+    "tier": "Illegal"
+  },
+  {
+    "key": "braviaryhisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vullaby",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mandibuzz",
+    "tier": "Illegal"
+  },
+  {
+    "key": "heatmor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "durant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "deino",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zweilous",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hydreigon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "larvesta",
+    "tier": "Illegal"
+  },
+  {
+    "key": "volcarona",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cobalion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "terrakion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "virizion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tornadus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tornadustherian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "thundurus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "thundurustherian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "reshiram",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zekrom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "landorus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "landorustherian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kyurem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kyuremblack",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kyuremwhite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "keldeo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meloetta",
+    "tier": "Illegal"
+  },
+  {
+    "key": "genesect",
+    "tier": "Illegal"
+  },
+  {
+    "key": "genesectburn",
+    "tier": "Illegal"
+  },
+  {
+    "key": "genesectchill",
+    "tier": "Illegal"
+  },
+  {
+    "key": "genesectdouse",
+    "tier": "Illegal"
+  },
+  {
+    "key": "genesectshock",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chespin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "quilladin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chesnaught",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fennekin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "braixen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "delphox",
+    "tier": "Illegal"
+  },
+  {
+    "key": "froakie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "frogadier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "greninja",
+    "tier": "Illegal"
+  },
+  {
+    "key": "greninjaash",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bunnelby",
+    "tier": "Illegal"
+  },
+  {
+    "key": "diggersby",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fletchling",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fletchinder",
+    "tier": "Illegal"
+  },
+  {
+    "key": "talonflame",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scatterbug",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spewpa",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vivillon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "litleo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pyroar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flabebe",
+    "tier": "Illegal"
+  },
+  {
+    "key": "floette",
+    "tier": "Illegal"
+  },
+  {
+    "key": "floetteeternal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "florges",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skiddo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gogoat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pancham",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pangoro",
+    "tier": "Illegal"
+  },
+  {
+    "key": "furfrou",
+    "tier": "Illegal"
+  },
+  {
+    "key": "espurr",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meowstic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "honedge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "doublade",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aegislash",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aegislashblade",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spritzee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aromatisse",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swirlix",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slurpuff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "inkay",
+    "tier": "Illegal"
+  },
+  {
+    "key": "malamar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "binacle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "barbaracle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skrelp",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dragalge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "clauncher",
+    "tier": "Illegal"
+  },
+  {
+    "key": "clawitzer",
+    "tier": "Illegal"
+  },
+  {
+    "key": "helioptile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "heliolisk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tyrunt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tyrantrum",
+    "tier": "Illegal"
+  },
+  {
+    "key": "amaura",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aurorus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hawlucha",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dedenne",
+    "tier": "Illegal"
+  },
+  {
+    "key": "carbink",
+    "tier": "Illegal"
+  },
+  {
+    "key": "goomy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sliggoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sliggoohisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "goodra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "goodrahisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "klefki",
+    "tier": "Illegal"
+  },
+  {
+    "key": "phantump",
+    "tier": "Illegal"
+  },
+  {
+    "key": "trevenant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pumpkaboo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pumpkaboosmall",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pumpkaboolarge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pumpkaboosuper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gourgeist",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gourgeistsmall",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gourgeistlarge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gourgeistsuper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bergmite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "avalugg",
+    "tier": "Illegal"
+  },
+  {
+    "key": "avalugghisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "noibat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "noivern",
+    "tier": "Illegal"
+  },
+  {
+    "key": "xerneas",
+    "tier": "Illegal"
+  },
+  {
+    "key": "xerneasneutral",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yveltal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zygarde",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zygarde10",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zygardecomplete",
+    "tier": "Illegal"
+  },
+  {
+    "key": "diancie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dianciemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hoopa",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hoopaunbound",
+    "tier": "Illegal"
+  },
+  {
+    "key": "volcanion",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rowlet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dartrix",
+    "tier": "Illegal"
+  },
+  {
+    "key": "decidueye",
+    "tier": "Illegal"
+  },
+  {
+    "key": "decidueyehisui",
+    "tier": "Illegal"
+  },
+  {
+    "key": "litten",
+    "tier": "Illegal"
+  },
+  {
+    "key": "torracat",
+    "tier": "Illegal"
+  },
+  {
+    "key": "incineroar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "popplio",
+    "tier": "Illegal"
+  },
+  {
+    "key": "brionne",
+    "tier": "Illegal"
+  },
+  {
+    "key": "primarina",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pikipek",
+    "tier": "Illegal"
+  },
+  {
+    "key": "trumbeak",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toucannon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yungoos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gumshoos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gumshoostotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grubbin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "charjabug",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vikavolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "vikavolttotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crabrawler",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crabominable",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oricorio",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oricoriopompom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oricoriopau",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oricoriosensu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cutiefly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ribombee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ribombeetotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rockruff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rockruffdusk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lycanroc",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lycanrocmidnight",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lycanrocdusk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wishiwashi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wishiwashischool",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mareanie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxapex",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mudbray",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mudsdale",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dewpider",
+    "tier": "Illegal"
+  },
+  {
+    "key": "araquanid",
+    "tier": "Illegal"
+  },
+  {
+    "key": "araquanidtotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fomantis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lurantis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lurantistotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "morelull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shiinotic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "salandit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "salazzle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "salazzletotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stufful",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bewear",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bounsweet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "steenee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tsareena",
+    "tier": "Illegal"
+  },
+  {
+    "key": "comfey",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oranguru",
+    "tier": "Illegal"
+  },
+  {
+    "key": "passimian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wimpod",
+    "tier": "Illegal"
+  },
+  {
+    "key": "golisopod",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandygast",
+    "tier": "Illegal"
+  },
+  {
+    "key": "palossand",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pyukumuku",
+    "tier": "Illegal"
+  },
+  {
+    "key": "typenull",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvally",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallybug",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallydark",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallydragon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyelectric",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyfairy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyfighting",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyfire",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyflying",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyghost",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallygrass",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyground",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyice",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallypoison",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallypsychic",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallyrock",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallysteel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silvallywater",
+    "tier": "Illegal"
+  },
+  {
+    "key": "minior",
+    "tier": "Illegal"
+  },
+  {
+    "key": "komala",
+    "tier": "Illegal"
+  },
+  {
+    "key": "turtonator",
+    "tier": "Illegal"
+  },
+  {
+    "key": "togedemaru",
+    "tier": "Illegal"
+  },
+  {
+    "key": "togedemarutotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mimikyu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mimikyutotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mimikyubustedtotem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bruxish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drampa",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dhelmise",
+    "tier": "Illegal"
+  },
+  {
+    "key": "jangmoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hakamoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kommoo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kommoototem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tapukoko",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tapulele",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tapubulu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tapufini",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cosmog",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cosmoem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "solgaleo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lunala",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nihilego",
+    "tier": "Illegal"
+  },
+  {
+    "key": "buzzwole",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pheromosa",
+    "tier": "Illegal"
+  },
+  {
+    "key": "xurkitree",
+    "tier": "Illegal"
+  },
+  {
+    "key": "celesteela",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kartana",
+    "tier": "Illegal"
+  },
+  {
+    "key": "guzzlord",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necrozma",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necrozmaduskmane",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necrozmadawnwings",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necrozmaultra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "magearna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "marshadow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "poipole",
+    "tier": "Illegal"
+  },
+  {
+    "key": "naganadel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stakataka",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blacephalon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zeraora",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meltan",
+    "tier": "Illegal"
+  },
+  {
+    "key": "melmetal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "melmetalgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grookey",
+    "tier": "Illegal"
+  },
+  {
+    "key": "thwackey",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rillaboom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rillaboomgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scorbunny",
+    "tier": "Illegal"
+  },
+  {
+    "key": "raboot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cinderace",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cinderacegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sobble",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drizzile",
+    "tier": "Illegal"
+  },
+  {
+    "key": "inteleon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "inteleongmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skwovet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "greedent",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rookidee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corvisquire",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corviknight",
+    "tier": "Illegal"
+  },
+  {
+    "key": "corviknightgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "blipbug",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dottler",
+    "tier": "Illegal"
+  },
+  {
+    "key": "orbeetle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "orbeetlegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nickit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "thievul",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gossifleur",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eldegoss",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wooloo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dubwool",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chewtle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drednaw",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drednawgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "yamper",
+    "tier": "Illegal"
+  },
+  {
+    "key": "boltund",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rolycoly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "carkol",
+    "tier": "Illegal"
+  },
+  {
+    "key": "coalossal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "coalossalgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "applin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flapple",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flapplegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "appletun",
+    "tier": "Illegal"
+  },
+  {
+    "key": "appletungmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dipplin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "silicobra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandaconda",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandacondagmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cramorant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arrokuda",
+    "tier": "Illegal"
+  },
+  {
+    "key": "barraskewda",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxtricity",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxtricitygmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toxtricitylowkeygmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sizzlipede",
+    "tier": "Illegal"
+  },
+  {
+    "key": "centiskorch",
+    "tier": "Illegal"
+  },
+  {
+    "key": "centiskorchgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "clobbopus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grapploct",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sinistea",
+    "tier": "Illegal"
+  },
+  {
+    "key": "polteageist",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hatenna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hattrem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hatterene",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hatterenegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "impidimp",
+    "tier": "Illegal"
+  },
+  {
+    "key": "morgrem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grimmsnarl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grimmsnarlgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "milcery",
+    "tier": "Illegal"
+  },
+  {
+    "key": "alcremie",
+    "tier": "Illegal"
+  },
+  {
+    "key": "alcremiegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "falinks",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pincurchin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "frosmoth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stonjourner",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eiscue",
+    "tier": "Illegal"
+  },
+  {
+    "key": "indeedee",
+    "tier": "Illegal"
+  },
+  {
+    "key": "indeedeef",
+    "tier": "Illegal"
+  },
+  {
+    "key": "morpeko",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cufant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "copperajah",
+    "tier": "Illegal"
+  },
+  {
+    "key": "copperajahgmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dracozolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arctozolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dracovish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arctovish",
+    "tier": "Illegal"
+  },
+  {
+    "key": "duraludon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "duraludongmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dreepy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "drakloak",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dragapult",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zacian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zaciancrowned",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zamazenta",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zamazentacrowned",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eternatus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "eternatuseternamax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kubfu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "urshifu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "urshifurapidstrike",
+    "tier": "Illegal"
+  },
+  {
+    "key": "urshifugmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "urshifurapidstrikegmax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "zarude",
+    "tier": "Illegal"
+  },
+  {
+    "key": "regieleki",
+    "tier": "Illegal"
+  },
+  {
+    "key": "regidrago",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glastrier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spectrier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "calyrex",
+    "tier": "Illegal"
+  },
+  {
+    "key": "calyrexice",
+    "tier": "Illegal"
+  },
+  {
+    "key": "calyrexshadow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "enamorus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "enamorustherian",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sprigatito",
+    "tier": "Illegal"
+  },
+  {
+    "key": "floragato",
+    "tier": "Illegal"
+  },
+  {
+    "key": "meowscarada",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fuecoco",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crocalor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "skeledirge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "quaxly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "quaxwell",
+    "tier": "Illegal"
+  },
+  {
+    "key": "quaquaval",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lechonk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oinkologne",
+    "tier": "Illegal"
+  },
+  {
+    "key": "oinkolognef",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tarountula",
+    "tier": "Illegal"
+  },
+  {
+    "key": "spidops",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nymble",
+    "tier": "Illegal"
+  },
+  {
+    "key": "lokix",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rellor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rabsca",
+    "tier": "Illegal"
+  },
+  {
+    "key": "greavard",
+    "tier": "Illegal"
+  },
+  {
+    "key": "houndstone",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flittle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "espathra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wiglett",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wugtrio",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dondozo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "veluza",
+    "tier": "Illegal"
+  },
+  {
+    "key": "finizen",
+    "tier": "Illegal"
+  },
+  {
+    "key": "palafin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "smoliv",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dolliv",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arboliva",
+    "tier": "Illegal"
+  },
+  {
+    "key": "capsakid",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scovillain",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tadbulb",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bellibolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "varoom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "revavroom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "orthworm",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tandemaus",
+    "tier": "Illegal"
+  },
+  {
+    "key": "maushold",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cetoddle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cetitan",
+    "tier": "Illegal"
+  },
+  {
+    "key": "frigibax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arctibax",
+    "tier": "Illegal"
+  },
+  {
+    "key": "baxcalibur",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tatsugiri",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cyclizar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pawmi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pawmo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pawmot",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wattrel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kilowattrel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bombirdier",
+    "tier": "Illegal"
+  },
+  {
+    "key": "squawkabilly",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flamigo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "klawf",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nacli",
+    "tier": "Illegal"
+  },
+  {
+    "key": "naclstack",
+    "tier": "Illegal"
+  },
+  {
+    "key": "garganacl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glimmet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "glimmora",
+    "tier": "Illegal"
+  },
+  {
+    "key": "shroodle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "grafaiai",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fidough",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dachsbun",
+    "tier": "Illegal"
+  },
+  {
+    "key": "maschiff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mabosstiff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "bramblin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "brambleghast",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gimmighoul",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gimmighoulroaming",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gholdengo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "greattusk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "brutebonnet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sandyshocks",
+    "tier": "Illegal"
+  },
+  {
+    "key": "screamtail",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fluttermane",
+    "tier": "Illegal"
+  },
+  {
+    "key": "slitherwing",
+    "tier": "Illegal"
+  },
+  {
+    "key": "roaringmoon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "irontreads",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironmoth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironhands",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironjugulis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironthorns",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironbundle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironvaliant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tinglu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chienpao",
+    "tier": "Illegal"
+  },
+  {
+    "key": "wochien",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chiyu",
+    "tier": "Illegal"
+  },
+  {
+    "key": "koraidon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "miraidon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tinkatink",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tinkatuff",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tinkaton",
+    "tier": "Illegal"
+  },
+  {
+    "key": "charcadet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "armarouge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ceruledge",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toedscool",
+    "tier": "Illegal"
+  },
+  {
+    "key": "toedscruel",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kingambit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "clodsire",
+    "tier": "Illegal"
+  },
+  {
+    "key": "annihilape",
+    "tier": "Illegal"
+  },
+  {
+    "key": "walkingwake",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironleaves",
+    "tier": "Illegal"
+  },
+  {
+    "key": "poltchageist",
+    "tier": "Illegal"
+  },
+  {
+    "key": "sinistcha",
+    "tier": "Illegal"
+  },
+  {
+    "key": "okidogi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "munkidori",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fezandipiti",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ogerpon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ogerponwellspring",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ogerponhearthflame",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ogerponcornerstone",
+    "tier": "Illegal"
+  },
+  {
+    "key": "archaludon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hydrapple",
+    "tier": "Illegal"
+  },
+  {
+    "key": "gougingfire",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ragingbolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironboulder",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ironcrown",
+    "tier": "Illegal"
+  },
+  {
+    "key": "terapagos",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pecharunt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "missingno",
+    "tier": "Illegal"
+  },
+  {
+    "key": "syclar",
+    "tier": "Illegal"
+  },
+  {
+    "key": "syclant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "revenankh",
+    "tier": "Illegal"
+  },
+  {
+    "key": "embirch",
+    "tier": "Illegal"
+  },
+  {
+    "key": "flarelm",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pyroak",
+    "tier": "Illegal"
+  },
+  {
+    "key": "breezi",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fidgit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "rebble",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tactite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "stratagem",
+    "tier": "Illegal"
+  },
+  {
+    "key": "privatyke",
+    "tier": "Illegal"
+  },
+  {
+    "key": "arghonaut",
+    "tier": "Illegal"
+  },
+  {
+    "key": "nohface",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kitsunoh",
+    "tier": "Illegal"
+  },
+  {
+    "key": "monohm",
+    "tier": "Illegal"
+  },
+  {
+    "key": "duohm",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cyclohm",
+    "tier": "Illegal"
+  },
+  {
+    "key": "dorsoil",
+    "tier": "Illegal"
+  },
+  {
+    "key": "colossoil",
+    "tier": "Illegal"
+  },
+  {
+    "key": "protowatt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "krilowatt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "voodoll",
+    "tier": "Illegal"
+  },
+  {
+    "key": "voodoom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scratchet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "tomohawk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necturine",
+    "tier": "Illegal"
+  },
+  {
+    "key": "necturna",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mollux",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cupra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "argalis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "aurumoth",
+    "tier": "Illegal"
+  },
+  {
+    "key": "brattler",
+    "tier": "Illegal"
+  },
+  {
+    "key": "malaconda",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cawdet",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cawmodore",
+    "tier": "Illegal"
+  },
+  {
+    "key": "volkritter",
+    "tier": "Illegal"
+  },
+  {
+    "key": "volkraken",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snugglow",
+    "tier": "Illegal"
+  },
+  {
+    "key": "plasmanta",
+    "tier": "Illegal"
+  },
+  {
+    "key": "floatoy",
+    "tier": "Illegal"
+  },
+  {
+    "key": "caimanoe",
+    "tier": "Illegal"
+  },
+  {
+    "key": "naviathan",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crucibelle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "crucibellemega",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pluffle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "kerfluffle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pajantom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "mumbao",
+    "tier": "Illegal"
+  },
+  {
+    "key": "jumbao",
+    "tier": "Illegal"
+  },
+  {
+    "key": "fawnifer",
+    "tier": "Illegal"
+  },
+  {
+    "key": "electrelk",
+    "tier": "Illegal"
+  },
+  {
+    "key": "caribolt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "smogecko",
+    "tier": "Illegal"
+  },
+  {
+    "key": "smoguana",
+    "tier": "Illegal"
+  },
+  {
+    "key": "smokomodo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "swirlpool",
+    "tier": "Illegal"
+  },
+  {
+    "key": "coribalis",
+    "tier": "Illegal"
+  },
+  {
+    "key": "snaelstrom",
+    "tier": "Illegal"
+  },
+  {
+    "key": "justyke",
+    "tier": "Illegal"
+  },
+  {
+    "key": "equilibra",
+    "tier": "Illegal"
+  },
+  {
+    "key": "solotl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "astrolotl",
+    "tier": "Illegal"
+  },
+  {
+    "key": "miasmite",
+    "tier": "Illegal"
+  },
+  {
+    "key": "miasmaw",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chromera",
+    "tier": "Illegal"
+  },
+  {
+    "key": "venomicon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "venomiconepilogue",
+    "tier": "Illegal"
+  },
+  {
+    "key": "saharascal",
+    "tier": "Illegal"
+  },
+  {
+    "key": "saharaja",
+    "tier": "Illegal"
+  },
+  {
+    "key": "ababo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "scattervein",
+    "tier": "Illegal"
+  },
+  {
+    "key": "hemogoblin",
+    "tier": "Illegal"
+  },
+  {
+    "key": "cresceidon",
+    "tier": "Illegal"
+  },
+  {
+    "key": "chuggalong",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarsmeargle",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarufo",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarufo2",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarbrycenman",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarmt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarmt2",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestartransport",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestargiant",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestargiant2",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarhumanoid",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarmonster",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarf00",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarf002",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarspirit",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarblackdoor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarwhitedoor",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarblackbelt",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestargiantpropo2",
+    "tier": "Illegal"
+  },
+  {
+    "key": "pokestarufopropu2",
+    "tier": "Illegal"
+  }
+]
