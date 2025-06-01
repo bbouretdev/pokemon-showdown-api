@@ -6,7 +6,10 @@ import os
 app = FastAPI()
 
 # Répertoire contenant les fichiers JSON générés
-JSON_DIR = "/home/showdown/api/data-transform/json-data"
+JSON_DIR = "/home/showdown/pokemon-showdown-api/data-transform/json-data"
+
+# Répertoire des fichiers battlelogs par date
+BATTLELOGS_DIR = "/home/showdown/pokemon-showdown-api/battlelogs"
 
 # Noms communs des fichiers (sans extension ni préfixe)
 ENDPOINTS = [
@@ -32,7 +35,6 @@ def load_json_file(prefix: str, endpoint: str):
     except json.JSONDecodeError:
         raise HTTPException(status_code=500, detail=f"{filename} invalide (JSON)")
 
-# Accueil
 @app.get("/")
 def read_root():
     return JSONResponse(content={
@@ -40,19 +42,34 @@ def read_root():
         "routes": {
             "dav": [f"/dav/{ep}" for ep in ENDPOINTS],
             "smogon": [f"/smogon/{ep}" for ep in ENDPOINTS],
+            "battlelogs": "/battlelogs/{YYYY-MM-DD}",
         }
     })
 
-# Routes pour les données locales
 @app.get("/dav/{endpoint}")
 def get_local_data(endpoint: str):
     if endpoint not in ENDPOINTS:
         raise HTTPException(status_code=404, detail="Endpoint invalide")
     return load_json_file(prefix="", endpoint=endpoint)
 
-# Routes pour les données smogon
 @app.get("/smogon/{endpoint}")
 def get_smogon_data(endpoint: str):
     if endpoint not in ENDPOINTS:
         raise HTTPException(status_code=404, detail="Endpoint invalide")
     return load_json_file(prefix="smogon-", endpoint=endpoint)
+
+@app.get("/battlelogs/{date}")
+def get_battlelogs_by_date(date: str):
+    """
+    Retourne les battlelogs agrégés pour une date donnée (format YYYY-MM-DD).
+    """
+    filepath = os.path.join(BATTLELOGS_DIR, f"{date}.json")
+
+    if not os.path.exists(filepath):
+        raise HTTPException(status_code=404, detail=f"Aucun log pour la date {date}")
+
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        raise HTTPException(status_code=500, detail=f"Erreur JSON dans {filepath}")

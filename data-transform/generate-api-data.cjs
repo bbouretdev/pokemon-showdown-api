@@ -5,7 +5,8 @@ const path = require('path');
 const https = require('https');
 
 const localDataDir = '/var/www/pokemon-showdown-client/play.pokemonshowdown.com/data';
-const outputDir = '/home/showdown/api/data-transform/json-data';
+const outputDir = '/home/showdown/pokemon-showdown-api/data-transform/json-data';
+const tmpDir = '/home/showdown/pokemon-showdown-api/data-transform/tmp'
 const remoteBaseUrl = 'https://play.pokemonshowdown.com/data';
 
 const files = [
@@ -100,7 +101,7 @@ const filesToFlatten = [
 for (const file of files) {
   const baseName = file.replace('.js', '');
   const localJsPath = path.join(localDataDir, file);
-  const tempCjsPath = path.join('/tmp', `local-${baseName}.cjs`);
+  const tempCjsPath = path.join(`${tmpDir}`, `local-${baseName}.cjs`);
   const outputJsonPath = path.join(outputDir, `${baseName}.json`);
 
   if (fs.existsSync(localJsPath)) {
@@ -116,7 +117,7 @@ for (const file of files) {
 (async () => {
   for (const file of files) {
     const baseName = file.replace('.js', '');
-    const tempCjsPath = path.join('/tmp', `smogon-${baseName}.cjs`);
+    const tempCjsPath = path.join(`${tmpDir}`, `smogon-${baseName}.cjs`);
     const outputJsonPath = path.join(outputDir, `smogon-${baseName}.json`); // <== préfixe smogon-
     const remoteUrl = `${remoteBaseUrl}/${file}`;
 

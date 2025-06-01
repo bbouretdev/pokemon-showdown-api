@@ -1,0 +1,353 @@
+[
+  {
+    "format": "gen9ou",
+    "match": {
+      "winner": "binachiertest",
+      "seed": [
+        36889,
+        31131,
+        46895,
+        30874
+      ],
+      "turns": 2,
+      "p1": "binachiertest2",
+      "p2": "binachiertest",
+      "p1team": [
+        {
+          "name": "Ariados",
+          "species": "Ariados",
+          "item": "",
+          "ability": "Sniper",
+          "moves": [
+            "Agility"
+          ],
+          "nature": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "gender": "F",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Bug",
+          "level": 100
+        }
+      ],
+      "p2team": [
+        {
+          "name": "Furret",
+          "species": "Furret",
+          "item": "Choice Scarf",
+          "ability": "Scurry",
+          "moves": [
+            "Nuzzle",
+            "Rapid Spin",
+            "Chilling Water",
+            "Knock Off"
+          ],
+          "nature": "Jolly",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "gender": "M",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Normal",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "name": "Dragonair",
+          "species": "Dragonair",
+          "item": "Damp Rock",
+          "ability": "Drizzle",
+          "moves": [
+            "Thunder",
+            "Thunder Wave",
+            "Surf",
+            "Ice Beam"
+          ],
+          "nature": "Modest",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "gender": "F",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Dragon",
+          "level": 100
+        },
+        {
+          "name": "Raichu",
+          "species": "Raichu",
+          "item": "Focus Sash",
+          "ability": "Conduction",
+          "moves": [
+            "Thunder",
+            "Surf",
+            "Draining Kiss",
+            "Grass Knot"
+          ],
+          "nature": "Timid",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "gender": "F",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Electric",
+          "level": 100
+        },
+        {
+          "name": "Weezing",
+          "species": "Weezing",
+          "item": "Black Sludge",
+          "ability": "Acid Rain",
+          "moves": [
+            "Will-O-Wisp",
+            "Memento",
+            "Clear Smog",
+            "Thunderbolt"
+          ],
+          "nature": "Bold",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+          },
+          "gender": "M",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Poison",
+          "level": 100
+        },
+        {
+          "name": "Pidgeot",
+          "species": "Pidgeot",
+          "item": "Heavy-Duty Boots",
+          "ability": "Turbulence",
+          "moves": [
+            "Hurricane",
+            "Aero Dash",
+            "Solar Wind",
+            "Scorching Sands"
+          ],
+          "nature": "Timid",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 252
+          },
+          "gender": "F",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Flying",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "name": "Skiploom",
+          "species": "Skiploom",
+          "item": "Eviolite",
+          "ability": "Seed Scatter",
+          "moves": [
+            "Cotton Guard",
+            "Aromatherapy",
+            "Encore",
+            "Tailwind"
+          ],
+          "nature": "Calm",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 4,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "gender": "F",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Grass",
+          "level": 100
+        }
+      ],
+      "score": [
+        0,
+        6
+      ],
+      "inputLog": [
+        ">version f618079d7756800dee4fd0ce66bb8d23cac4679e",
+        ">start {\"formatid\":\"gen9ou\",\"seed\":[36889,31131,46895,30874]}",
+        ">player p1 {\"name\":\"binachiertest2\",\"avatar\":\"2\",\"team\":\"Ariados|||Sniper|Agility||,,,252,,|F|,0,,,,|||,,,,,Bug\",\"rating\":0}",
+        ">player p2 {\"name\":\"binachiertest\",\"avatar\":\"169\",\"team\":\"Furret||ChoiceScarf|Scurry|Nuzzle,RapidSpin,ChillingWater,KnockOff|Jolly|252,,4,,,252|M||||,,,,,Normal]Dragonair||DampRock|Drizzle|Thunder,ThunderWave,Surf,IceBeam|Modest|252,,4,252,,|F|,0,,,,|||,,,,,Dragon]Raichu||FocusSash|Conduction|Thunder,Surf,DrainingKiss,GrassKnot|Timid|4,,,252,,252|F|,0,,,,|||,,,,,Electric]Weezing||BlackSludge|AcidRain|WillOWisp,Memento,ClearSmog,Thunderbolt|Bold|252,,252,,4,|M|,0,,,,|||,,,,,Poison]Pidgeot||HeavyDutyBoots|Turbulence|Hurricane,AeroDash,SolarWind,ScorchingSands|Timid|4,,,252,,252|F||||,,,,,Flying]Skiploom||Eviolite|SeedScatter|CottonGuard,Aromatherapy,Encore,Tailwind|Calm|252,,4,,252,|F|,0,,,,|||,,,,,Grass\",\"rating\":0}",
+        ">p1 team 1",
+        ">p2 team 5, 2, 3, 4, 1, 6",
+        ">p1 move agility",
+        ">p2 move solarwind",
+        ">p1 move agility",
+        ">p2 move solarwind"
+      ],
+      "log": [
+        "|j|☆binachiertest2",
+        "|j|☆binachiertest",
+        "|t:|1748187385",
+        "|gametype|singles",
+        "|player|p1|binachiertest2|2|",
+        "|player|p2|binachiertest|169|",
+        "|teamsize|p1|1",
+        "|teamsize|p2|6",
+        "|gen|9",
+        "|tier|[Gen 9] OU",
+        "|rule|Species Clause: Limit one of each Pokémon",
+        "|rule|OHKO Clause: OHKO moves are banned",
+        "|rule|Evasion Items Clause: Evasion items are banned",
+        "|rule|Evasion Moves Clause: Evasion moves are banned",
+        "|rule|Endless Battle Clause: Forcing endless battles is banned",
+        "|rule|HP Percentage Mod: HP is shown in percentages",
+        "|rule|Terastal Clause: You cannot Terastallize",
+        "|clearpoke",
+        "|poke|p1|Ariados, F|",
+        "|poke|p2|Furret, M|",
+        "|poke|p2|Dragonair, F|",
+        "|poke|p2|Raichu, F|",
+        "|poke|p2|Weezing, M|",
+        "|poke|p2|Pidgeot, F|",
+        "|poke|p2|Skiploom, F|",
+        "|teampreview",
+        "|",
+        "|t:|1748187392",
+        "|start",
+        "|switch|p1a: Ariados|Ariados, F|281/281",
+        "|switch|p2a: Pidgeot|Pidgeot, F|308/308",
+        "|turn|1",
+        "|",
+        "|t:|1748187400",
+        "|move|p2a: Pidgeot|Solar Wind|p1a: Ariados",
+        "|-supereffective|p1a: Ariados",
+        "|-damage|p1a: Ariados|83/281",
+        "|move|p1a: Ariados|Agility|p1a: Ariados",
+        "|-boost|p1a: Ariados|spe|2",
+        "|",
+        "|upkeep",
+        "|turn|2",
+        "|",
+        "|t:|1748187410",
+        "|move|p2a: Pidgeot|Solar Wind|p1a: Ariados",
+        "|-supereffective|p1a: Ariados",
+        "|-damage|p1a: Ariados|0 fnt",
+        "|faint|p1a: Ariados",
+        "|",
+        "|win|binachiertest",
+        ""
+      ],
+      "p1rating": null,
+      "p2rating": null,
+      "endType": "normal",
+      "ladderError": true,
+      "timestamp": "Sun May 25 2025 15:36:50 GMT+0000 (Coordinated Universal Time)",
+      "roomid": "battle-gen9ou-1",
+      "format": "gen9ou"
+    }
+  }
+]

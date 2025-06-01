@@ -1,0 +1,5 @@
+# Ignorer tous les fichiers JSON dans le dossier json-data
+data-transform/json-data/*.json
+
+# Ignorer le dossier temporaire
+data-transform/tmp/

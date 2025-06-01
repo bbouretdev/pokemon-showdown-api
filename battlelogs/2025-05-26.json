@@ -1,0 +1,364 @@
+[
+  {
+    "format": "gen9ou",
+    "match": {
+      "winner": "binayox",
+      "seed": [
+        50231,
+        16177,
+        24305,
+        9241
+      ],
+      "turns": 3,
+      "p1": "binoufle",
+      "p2": "binayox",
+      "p1team": [
+        {
+          "name": "Ariados",
+          "species": "Ariados",
+          "item": "",
+          "ability": "Sniper",
+          "moves": [
+            "Agility"
+          ],
+          "nature": "",
+          "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 0,
+            "spe": 0
+          },
+          "gender": "M",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Bug",
+          "level": 100
+        }
+      ],
+      "p2team": [
+        {
+          "name": "Pinsir",
+          "species": "Pinsir",
+          "item": "Heavy-Duty Boots",
+          "ability": "Sunder Armor",
+          "moves": [
+            "U-turn",
+            "Knock Off",
+            "Close Combat",
+            "Earthquake"
+          ],
+          "nature": "Jolly",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+          },
+          "gender": "M",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Bug",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "name": "Rhydon",
+          "species": "Rhydon",
+          "item": "Eviolite",
+          "ability": "Rhino Rush",
+          "moves": [
+            "Drill Run",
+            "Head Smash",
+            "Swords Dance",
+            "Facade"
+          ],
+          "nature": "Adamant",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "gender": "M",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Ground",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "name": "Clefable",
+          "species": "Clefable",
+          "item": "Flame Orb",
+          "ability": "Magic Guard",
+          "moves": [
+            "Psycho Shift",
+            "Cosmic Power",
+            "Stored Power",
+            "Soft-Boiled"
+          ],
+          "nature": "Bold",
+          "evs": {
+            "hp": 4,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 252,
+            "spe": 0
+          },
+          "gender": "M",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Fairy",
+          "level": 100
+        },
+        {
+          "name": "Hypno",
+          "species": "Hypno",
+          "item": "Leftovers",
+          "ability": "Bad Dreams",
+          "moves": [
+            "Trance",
+            "Calm Mind",
+            "Dream Eater",
+            "Focus Blast"
+          ],
+          "nature": "Bold",
+          "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+          },
+          "gender": "M",
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          },
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Psychic",
+          "level": 100
+        },
+        {
+          "name": "Machamp",
+          "species": "Machamp",
+          "item": "Leftovers",
+          "ability": "Sneer Welcome",
+          "moves": [
+            "Mute Blow",
+            "Bulk Up",
+            "Earthquake",
+            "Stone Edge"
+          ],
+          "nature": "Adamant",
+          "evs": {
+            "hp": 4,
+            "atk": 252,
+            "def": 252,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "gender": "F",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Fighting",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "name": "Nidoking",
+          "species": "Nidoking",
+          "item": "Black Sludge",
+          "ability": "Parental Devotion",
+          "moves": [
+            "Hone Claws",
+            "Gunk Shot",
+            "Earthquake",
+            "Ice Punch"
+          ],
+          "nature": "Jolly",
+          "evs": {
+            "hp": 0,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 4,
+            "spe": 252
+          },
+          "gender": "M",
+          "happiness": 255,
+          "hpType": "",
+          "pokeball": "",
+          "gigantamax": false,
+          "dynamaxLevel": 10,
+          "teraType": "Poison",
+          "level": 100,
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        }
+      ],
+      "score": [
+        0,
+        6
+      ],
+      "inputLog": [
+        ">version f618079d7756800dee4fd0ce66bb8d23cac4679e",
+        ">start {\"formatid\":\"gen9ou\",\"seed\":[50231,16177,24305,9241]}",
+        ">player p1 {\"name\":\"binoufle\",\"avatar\":\"170\",\"team\":\"Ariados|||Sniper|Agility||,,,252,,|M|,0,,,,|||,,,,,Bug\",\"rating\":0}",
+        ">player p2 {\"name\":\"binayox\",\"avatar\":\"265\",\"team\":\"Pinsir||HeavyDutyBoots|SunderArmor|Uturn,KnockOff,CloseCombat,Earthquake|Jolly|4,252,,,,252|M||||,,,,,Bug]Rhydon||Eviolite|RhinoRush|DrillRun,HeadSmash,SwordsDance,Facade|Adamant|4,252,,,252,|M||||,,,,,Ground]Clefable||FlameOrb|MagicGuard|PsychoShift,CosmicPower,StoredPower,SoftBoiled|Bold|4,,252,,252,|M|,0,,,,|||,,,,,Fairy]Hypno||Leftovers|BadDreams|Trance,CalmMind,DreamEater,FocusBlast|Bold|252,,252,,4,|M|,0,,,,|||,,,,,Psychic]Machamp||Leftovers|SneerWelcome|MuteBlow,BulkUp,Earthquake,StoneEdge|Adamant|4,252,252,,,|F||||,,,,,Fighting]Nidoking||BlackSludge|ParentalDevotion|HoneClaws,GunkShot,Earthquake,IcePunch|Jolly|,252,,,4,252|M||||,,,,,Poison\",\"rating\":0}",
+        ">p1 team 1",
+        ">p2 team 6, 2, 3, 4, 5, 1",
+        ">p1 move agility",
+        ">p2 move icepunch",
+        ">p1 move agility",
+        ">p2 move icepunch",
+        ">p1 move agility",
+        ">p2 move earthquake"
+      ],
+      "log": [
+        "|j|☆binoufle",
+        "|j|☆binayox",
+        "|t:|1748264063",
+        "|gametype|singles",
+        "|player|p1|binoufle|170|",
+        "|player|p2|binayox|265|",
+        "|teamsize|p1|1",
+        "|teamsize|p2|6",
+        "|gen|9",
+        "|tier|[Gen 9] OU",
+        "|rule|Species Clause: Limit one of each Pokémon",
+        "|rule|OHKO Clause: OHKO moves are banned",
+        "|rule|Evasion Items Clause: Evasion items are banned",
+        "|rule|Evasion Moves Clause: Evasion moves are banned",
+        "|rule|Endless Battle Clause: Forcing endless battles is banned",
+        "|rule|HP Percentage Mod: HP is shown in percentages",
+        "|rule|Terastal Clause: You cannot Terastallize",
+        "|clearpoke",
+        "|poke|p1|Ariados, M|",
+        "|poke|p2|Pinsir, M|",
+        "|poke|p2|Rhydon, M|",
+        "|poke|p2|Clefable, M|",
+        "|poke|p2|Hypno, M|",
+        "|poke|p2|Machamp, F|",
+        "|poke|p2|Nidoking, M|",
+        "|teampreview",
+        "|",
+        "|t:|1748264073",
+        "|start",
+        "|switch|p1a: Ariados|Ariados, M|281/281",
+        "|switch|p2a: Nidoking|Nidoking, M|303/303",
+        "|turn|1",
+        "|",
+        "|t:|1748264087",
+        "|move|p2a: Nidoking|Ice Punch|p1a: Ariados",
+        "|-damage|p1a: Ariados|176/281",
+        "|move|p1a: Ariados|Agility|p1a: Ariados",
+        "|-boost|p1a: Ariados|spe|2",
+        "|",
+        "|upkeep",
+        "|turn|2",
+        "|",
+        "|t:|1748264095",
+        "|move|p2a: Nidoking|Ice Punch|p1a: Ariados",
+        "|-damage|p1a: Ariados|82/281",
+        "|move|p1a: Ariados|Agility|p1a: Ariados",
+        "|-boost|p1a: Ariados|spe|2",
+        "|",
+        "|upkeep",
+        "|turn|3",
+        "|",
+        "|t:|1748264104",
+        "|move|p1a: Ariados|Agility|p1a: Ariados",
+        "|-boost|p1a: Ariados|spe|2",
+        "|move|p2a: Nidoking|Earthquake|p1a: Ariados",
+        "|-damage|p1a: Ariados|0 fnt",
+        "|faint|p1a: Ariados",
+        "|",
+        "|win|binayox",
+        ""
+      ],
+      "p1rating": null,
+      "p2rating": null,
+      "endType": "normal",
+      "ladderError": true,
+      "timestamp": "Mon May 26 2025 12:55:04 GMT+0000 (Coordinated Universal Time)",
+      "roomid": "battle-gen9ou-2",
+      "format": "gen9ou"
+    }
+  }
+]
